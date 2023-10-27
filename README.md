@@ -1,10 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alfred Valderrama</h1>
 
-I'm Alfred Valderrama, A cloud native and devops enthusiast located at <i>Manila, Philippines</i>.
+<h3 align="center">I'm Alfred Valderrama, A cloud native and devops enthusiast located at <i>Manila, Philippines</i></h3>.
 
-You can reach out to me here: [https://redopsbay.dev](https://redopsbay.dev)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">You can reach out to me here: <a href="https://redopsbay.dev">https://redopsbay.dev</a></p>
 
 - You can hire me as a consultant 👋
 - I can provide workshops or trainings 🙂
 - Willing to contribute into cloud / devops / developer community 😇
 - I LOVE OPENSOURCE PROJECTS 💖
+- 💬 Ask me about ***DevOps / DevSecOps / AWS / Observability / Kubernetes / Containerization / Code Development / Automated Testing***
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redopsbay&label=Profile%20views&color=0e75b6&style=flat" alt="redopsbay" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redopsbay" alt="redopsbay" /></a> </p>
+
+
+<h3 align="left">Tools and Languages: 🚧</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.alibabacloud.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/alibabacloud/alibabacloud-ar21.svg" alt="alicloud" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="40" height="40"/> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Golang" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/> </a> <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" width="40" height="40"/> </a> <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="GitLab" width="40" height="40"/> </a> <a href="https://helm.sh/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a> <a href="https://istio.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="Helm" width="40" height="40"/> </a> <a href="https://opensearch.org/" target="_blank" rel="noreferrer"> <img src="https://icons-for-free.com/iconfiles/png/512/opensearch-1331550891861935016.png" alt="OpenSearch" width="40" height="40"/> </a> <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer"> <img src="https://opentelemetry.io/img/logos/opentelemetry-horizontal-color.svg" alt="OpenTelemetry" width="40" height="40"/> </a> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/> </a> <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a><a href="https://grafana.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a><a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Atlassian Jira" width="40" height="40"/> </a> <a href="https://openapis.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openapis/openapis-ar21.svg" alt="OpenAPI Initiative" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=redopsbay&show_icons=true&locale=en&layout=compact" alt="redopsbay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redopsbay&show_icons=true&locale=en" alt="redopsbay" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redopsbay&" alt="redopsbay" /></p>
